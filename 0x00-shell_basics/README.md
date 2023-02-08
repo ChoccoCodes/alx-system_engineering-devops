@@ -1,1 +1,1 @@
-Create a symbolic link to /bin/ls, named __ls__. 
+14. Copy HTML files
