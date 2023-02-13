@@ -1,1 +1,1 @@
-displaylast 10 lines of /etc/passwd
+Print first 10 lines of /etc/passwd
